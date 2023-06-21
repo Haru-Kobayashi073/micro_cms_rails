@@ -28,3 +28,5 @@ group :development do
   # gem "spring"
 end
 
+gem 'panko_serializer'
+gem 'rack-cors'
